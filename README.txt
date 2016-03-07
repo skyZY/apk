@@ -18,3 +18,11 @@ Use CleanTask_SecurityCenter.apk with SecurityCenter_release_1190_svn1706_L_V5.3
 Use CleanTask_Freeme.apk with FreemeLiteODM_v3.4.7_4.apk
 
 ##################################################
+
+Third commit
+
+提交 SecurityCenter_svn_1787_V_5.3.0_1200.apk和 DroiAccount.apk
+
+SecurityCenter_svn_1787_V_5.3.0_1200.apk包配合安装卓易账号apk DroiAccount.apk，方能显示手机找回功能
+
+##################################################
